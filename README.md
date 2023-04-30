@@ -31,4 +31,3 @@ SNA 		7008 			Skip next instruction if AC negative
 SZA 		7004 			Skip next instruction if AC zero
 SZE 		7002 			Skip next instruction if E is 0
 HLT 		7001 			Halt computer
-
