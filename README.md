@@ -1,5 +1,5 @@
 # Logisim
-Hello guys, here I created Morris Manno CPU on Logisim Simulator(exclude I/O instructions)
+Hello guys, here I created Morris Mano CPU on Logisim Simulator(exclude I/O instructions)
 
 including all other instructions...
 
