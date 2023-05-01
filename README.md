@@ -1,10 +1,10 @@
 # Logisim
-Hello guys, here I created Morris Mano CPU on Logisim Simulator(exclude I/O instructions)
+Hello guys, here I design Morris Mano CPU on Logisim Simulator(exclude I/O instructions)
 
 including all other instructions...
 
-Memory Refrence Instruction
 
+Memory Refrence Instruction
 Symbol   Hexadecimal Code	Description
 	 	I=O  I=1  		
 AND 		0xxx 8xxx 		AND memory word to AC
@@ -15,8 +15,8 @@ BUN 		4xxx Cxxx 		Branch unconditionally
 BSA 		5xxx Dxxx 		Branch and save return address
 ISZ 		6xxx Exxx 		Increment and skip if zero
 
-Register Refrence instruction
 
+Register Refrence instruction
 Symbol   Hexadecimal Code	Description
 
 CLA 		7800 			Clear AC
