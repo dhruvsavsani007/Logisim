@@ -36,3 +36,8 @@ including all other instructions...
 	SZA 		7004 			Skip next instruction if AC zero
 	SZE 		7002 			Skip next instruction if E is 0
 	HLT 		7001 			Halt computer
+	
+	
+I also created Assembler for this CPU please checkout...
+
+Assembler Github link : https://github.com/dhruvsavsani007/Assembler
